@@ -1,0 +1,19 @@
+{
+  "post":[
+    {
+      "id":1,
+      "name":"Raji Sarafadeen Sanjo ",
+      "track":"frontEnd dev"
+    },
+    {
+          "id":2,
+          "name":"TechCtrl ",
+          "track":"Tech Company"
+        },
+        {
+              "id":3,
+              "name":"Raji ",
+              "track":"Teacher"
+            }
+  ]
+  
