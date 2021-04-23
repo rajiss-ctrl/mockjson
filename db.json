@@ -1,25 +1,22 @@
 {
-  "post":[
+  "post": [
     {
-      "id":1,
-      "name":"Raji Sarafadeen Sanjo ",
-      "title":"JSON FILE",
-      "body":"A JSON Object is an entity in JSON which is enclosed in curly brackets. It is written in the unordered set of name and value pairs in which the name should be followed by (colon), and the name/value pairs need to be separated using , (comma). It can be used when key names are arbitrary strings."
+      "id": 1,
+      "name": "Raji Sarafadeen Sanjo ",
+      "title": "JSON FILE",
+      "body": "A JSON Object is an entity in JSON which is enclosed in curly brackets. It is written in the unordered set of name and value pairs in which the name should be followed by (colon), and the name/value pairs need to be separated using , (comma). It can be used when key names are arbitrary strings."
     },
     {
-          "id":2,
-      "name":"RajissCtrl",
-      "title":"JSON FILE NOT IN OBJECT",
-      "body":"A JSON Object is an entity in JSON which is enclosed in curly brackets. It is written in the unordered set of name and value pairs in which the name should be followed by (colon), and the name/value pairs need to be separated using , (comma). It can be used when key names are arbitrary strings."
- 
-        },
-        {
-              "id":3,
-      "name":"TechCtrl",
-      "title":"Github rest api",
-      "body":"A JSON Object is an entity in JSON which is enclosed in curly brackets. It is written in the unordered set of name and value pairs in which the name should be followed by (colon), and the name/value pairs need to be separated using , (comma). It can be used when key names are arbitrary strings."
- 
-            }
+      "id": 2,
+      "name": "RajissCtrl",
+      "title": "JSON FILE NOT IN OBJECT",
+      "body": "A JSON Object is an entity in JSON which is enclosed in curly brackets. It is written in the unordered set of name and value pairs in which the name should be followed by (colon), and the name/value pairs need to be separated using , (comma). It can be used when key names are arbitrary strings."
+    },
+    {
+      "id": 3,
+      "name": "TechCtrl",
+      "title": "Github rest api",
+      "body": "A JSON Object is an entity in JSON which is enclosed in curly brackets. It is written in the unordered set of name and value pairs in which the name should be followed by (colon), and the name/value pairs need to be separated using , (comma). It can be used when key names are arbitrary strings."
+    }
   ]
-  }
-  
+}
